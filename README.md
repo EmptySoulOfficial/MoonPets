@@ -1,6 +1,6 @@
 #Moonpets Readme
 ###MD: 21.01.2023
-###Authoren: P.Pietrowski & S.Pietrowski
+###Authoren: @CorvoDaimon & @EmptySoul
 
 ##Unity Project
 ___
