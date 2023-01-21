@@ -1,0 +1,29 @@
+Standard Katze (Steve)
+
+Fell: #212121
+Nase & Ohren: #d081c2
+Augen (verlauf oben - unten): #30dc4d - #eaff00
+-----
+
+Katze weiß mit schwarzen Augen (Mooncat) | (Selten?)
+
+Fell: #f5f5f5
+Nase: #000000
+Ohren: #787878
+Augen (mit "Eye Inner"): #000000
+----
+
+Dunkelrote Katze (Hell Cat):
+
+Fell: #201818
+Nase & Ohren: #902b4a
+Augen (verlauf oben - unten): #8d112e - #ff0066
+----
+
+Weiße katze mit Grünen AUgen und Details (Cat Joana) | !Katze hat details an den Ohren!
+
+Fell: #f6f6f6
+Nase & Ohren: #fab8ee
+Augen (verlauf oben - unten): #30dc4d - #eaff00
+Augen Inner: #212121
+Ohren Details: #7d7d7d
