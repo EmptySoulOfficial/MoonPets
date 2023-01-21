@@ -1,0 +1,22 @@
+Ideen für die App
+---------------------------
+
+Katzen eigenschaften:
+
+Jede Katze frisst auf grunbd ihrer Besonderheiten auch anderes Futter, 
+mag andere Spielsachen oder schaltet vllt anderen Style frei. (hört andere musik ect)
+
+Eigenschaften (Angezeigt in der Ei Auswahl)
+-Farben
+-Sternzeichen
+-Aufmerksamkeit ? (Wieviel aufmerksamkeit sie braucht)
+-Selten? (Wie wahrscheinlich es ist eine seltene Katze zu looten)
+
+
+Items/Inventar:
+
+Begrenztes Inventar? (in der Leiste unten)
+Rest Items können in ein Regal im Zimmer abgestellt werden.
+Größeres Regal => Mehr Storage
+
+So kann man 2-3 Sachen immer perat haben, ansonsten lagern
