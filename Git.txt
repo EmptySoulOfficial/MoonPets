@@ -1,0 +1,5 @@
+- Eigenen Branch mit dev updaten: git pull origin dev
+- Dateien adden: git add .
+- Commit nachricht: git commit -m"NACHRICHT"
+- Pushen: git push
+- In anderen Branch auschecken: git checkout Branch_NAME (oder rechtsklick im tree und checkout)
