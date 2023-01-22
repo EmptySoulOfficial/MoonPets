@@ -1,0 +1,11 @@
+- Eigenen Branch mit dev updaten: git pull origin dev
+- Dateien adden: git add .
+- Commit nachricht: git commit -m"NACHRICHT"
+- Pushen: git push
+- In anderen Branch auschecken: git checkout Branch_NAME (oder rechtsklick im tree und checkout)
+
+Nach Änderungen - Pushen, und Branch (mit deinen Updates) in dev mergen. 
+(in dev auschecken und per rechtsklick auf den gewünschten Branch "merge into current branch" wählen)
+Dann wieder Pushen
+(Danach bitte wieder in den eigenen Branch wächseln - Keine direkten Änderungen in dev)
+Alles ist up-to-date
