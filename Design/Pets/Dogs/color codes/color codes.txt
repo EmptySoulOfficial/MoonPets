@@ -1,0 +1,24 @@
+Standard Dog Husky (Piet)
+
+Fell & Body-Details: #56565c
+Ohren-Innen: #9e8f9b
+Head-Details,Body,Füße und Tail: #d0d4d5
+Augen-Innen & Nase: #111111
+Augen (verlauf oben - unten): #00d7fe - #95481e
+-----
+
+Dog Shiba Inu (Kiba)
+
+Fell, Body-Details, Tail & Füße: #c28554
+Head-Detail,Body, Ohren Inner: #e2e2e2
+Augen-Innen & Nase: #111111
+Augen (verlauf oben - unten): #feb11c - #95481e
+-----
+
+Moon Dog
+
+Fell, Body-Details, Tail: #a2a2a2
+Head-Detail,Body & Füße: #d0d4d5
+Augen-Innen & außen, Nase: #111111
+Ohren-Innen: #9e8f9b;
+-----
