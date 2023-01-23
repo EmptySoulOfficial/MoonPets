@@ -2,14 +2,13 @@ Standard Katze (Steve)
 
 Fell: #212121
 Nase & Ohren: #d081c2
-Augen (verlauf oben - unten): #30dc4d - #eaff00
+Augen (verlauf oben - unten): #30dc4d - #bcf613
 -----
 
 Katze weiß mit schwarzen Augen (Mooncat) | (Selten?)
 
 Fell: #f5f5f5
-Nase: #000000
-Ohren: #787878
+Nase & Ohren: #787878
 Augen (mit "Eye Inner"): #000000
 ----
 
