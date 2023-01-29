@@ -16,8 +16,6 @@ public class MoonPet : ScriptableObject
     public PetType petType; 
 
     [Header("- Visual Settings -")]
-    public string spriteFolderName = "Default";
-    [Header("")]
 
     public bool recolor = true;
     public Color primaryBodyColor;
@@ -30,6 +28,17 @@ public class MoonPet : ScriptableObject
 
     public bool useSkinTexture = false;
     public Sprite texture;
+
+    [Header("- Stats -")]
+    public float health;
+    public float hunger;
+    public float thirst;
+    public float joy;
+    public float hygiene;
+    public float toilet;
+
+    //[Header("- Behaviour -")]
+    
 
 
     // Start is called before the first frame update
