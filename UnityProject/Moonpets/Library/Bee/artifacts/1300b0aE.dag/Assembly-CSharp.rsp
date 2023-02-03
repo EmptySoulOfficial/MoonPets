@@ -385,8 +385,10 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Scripts/Characteristic.cs"
 "Assets/Scripts/MoonPet.cs"
 "Assets/Scripts/WorldPet.cs"
+"Assets/Scripts/Zodiac.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 

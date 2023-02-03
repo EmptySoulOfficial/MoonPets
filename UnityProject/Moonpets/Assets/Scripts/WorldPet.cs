@@ -56,8 +56,8 @@ public class WorldPet : MonoBehaviour
         s_foot_r.color = moonPet.primaryBodyColor;
         s_foot_l.color = moonPet.primaryBodyColor;
 
-        //s_eye_r.color = moonPet.RightEyeColor; -> color gradient?
-        //s_eye_l.color = moonPet.LeftEyeColor; 
+        s_eye_r.material = moonPet.RightEyeMaterial; 
+        s_eye_l.material = moonPet.LeftEyeMaterial; 
 
         //s_eye_inner_r.color = Color.black; -> black by default
         //s_eye_inner_l.color = Color.black; 
